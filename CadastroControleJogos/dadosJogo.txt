@@ -1,2 +1,0 @@
-avatar;ps5;2014;1;N;;
-Read dead;pc;2010;8;N;;
