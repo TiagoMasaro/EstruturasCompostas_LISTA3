@@ -1,0 +1,14 @@
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\bin\Debug\net9.0\CadastroBiblioteca.exe
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\bin\Debug\net9.0\CadastroBiblioteca.deps.json
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\bin\Debug\net9.0\CadastroBiblioteca.runtimeconfig.json
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\bin\Debug\net9.0\CadastroBiblioteca.dll
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\bin\Debug\net9.0\CadastroBiblioteca.pdb
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\obj\Debug\net9.0\CadastroBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\obj\Debug\net9.0\CadastroBiblioteca.AssemblyInfoInputs.cache
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\obj\Debug\net9.0\CadastroBiblioteca.AssemblyInfo.cs
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\obj\Debug\net9.0\CadastroBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\obj\Debug\net9.0\CadastroBiblioteca.dll
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\obj\Debug\net9.0\refint\CadastroBiblioteca.dll
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\obj\Debug\net9.0\CadastroBiblioteca.pdb
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\obj\Debug\net9.0\CadastroBiblioteca.genruntimeconfig.cache
+C:\Users\12968505602\Downloads\Programacao C#\CadastroBiblioteca\obj\Debug\net9.0\ref\CadastroBiblioteca.dll
